@@ -1,4 +1,4 @@
 # INTRO
 This is my introduction Repository
 <br>
-name:Sakshi Rani
+Name:Sakshi Prajapati
